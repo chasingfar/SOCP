@@ -1,0 +1,6 @@
+[submodule "SOCPU"]
+	path = SOCPU
+	url = https://github.com/chasingfar/SOCPU.git
+[submodule "SOCC"]
+	path = SOCC
+	url = https://github.com/chasingfar/SOCC.git
