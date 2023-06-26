@@ -25,6 +25,7 @@ namespace SOCP::DEV{
 		static constexpr uint8_t CMD0H_DISK_MOUNT=0x31;
 		static constexpr uint8_t CMD0H_FILE_OPEN=0x32;
 		static constexpr uint8_t CMD2H_BYTE_READ=0x3A;
+		static constexpr uint8_t CMD0H_BYTE_RD_GO=0x3B;
 
 		static constexpr uint8_t CMD_RET_SUCCESS=0x51;
 		static constexpr uint8_t USB_INT_SUCCESS=0x14;
