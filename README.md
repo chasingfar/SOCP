@@ -18,13 +18,14 @@ Goals is to build a computer which is:
 - [x] Loop summation of 1 to 3 (first run)
 - [x] LCD (first output device)
 - [x] Keyboard (interupt input device)
-- [ ] SD card (filesystem)
+- [x] SD card (filesystem)
 
 ### Software
 - [x] DCSim (auto-test)
 - [x] SOASM (embedded assembler)
 - [x] SOCC (embedded compiler)
 - [ ] Operating System (simple shell to run program form file)
+  - [x] BIOS or bootloader (boot from SD card)
 - [ ] SOCC on SOCPU (compile program on SOCPU)
 ## DevKits
 
